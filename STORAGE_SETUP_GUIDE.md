@@ -20,7 +20,7 @@ This guide will help you set up Supabase Storage for image uploads in your Socia
    - Enter the following details:
      - **Name**: `post-images`
      - **Public bucket**: ✅ Enable (Check this box)
-     - **File size limit**: `5 MB`
+     - **File size limit**: `2 MB`
      - **Allowed MIME types**: Leave default or specify: `image/jpeg, image/jpg, image/png, image/gif, image/webp`
    - Click **"Create bucket"**
 
